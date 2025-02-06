@@ -1,0 +1,15 @@
+{
+  "name": "eag-proxy",
+  "version": "1.0.0",
+  "description": "A WebSocket proxy server using http-proxy and ws libraries.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "ws": "^8.5.0"
+  },
+  "author": "NFC",
+  "license": "MIT"
+}
