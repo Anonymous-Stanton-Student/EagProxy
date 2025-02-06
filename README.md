@@ -6,7 +6,7 @@ This project implements a WebSocket proxy server using the `http-proxy` and `ws`
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Anonymous-Stanton-Student/EagProxy.git
    cd eag-proxy
    ```
 
